@@ -150,6 +150,7 @@ h1
     font-size: 140px;
     letter-spacing: 10px;
     color: rgb(0, 255, 136);
+    
 }
 
 h4
@@ -171,6 +172,7 @@ h5
 {
     text-align: center;
     margin-top: 12%;
+    margin-left: 5%;
 }
 
 #college
